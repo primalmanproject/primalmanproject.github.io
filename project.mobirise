@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "thepath.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -85,7 +85,7 @@
     "screenshot": "screenshot.png",
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "<!-- Hotjar Tracking Code for www.primalmanproject.org -->\n<script>\n    (function(h,o,t,j,a,r){\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\n        h._hjSettings={hjid:2410584,hjsv:6};\n        a=o.getElementsByTagName('head')[0];\n        r=o.createElement('script');r.async=1;\n        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\n        a.appendChild(r);\n    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\n</script>\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-P75TSVFGQF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-P75TSVFGQF');\n</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-P75TSVFGQF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-P75TSVFGQF');\n</script>",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
@@ -94,7 +94,7 @@
         "main": true,
         "title": "Primal Man Project",
         "meta_descr": "Primal Man Project",
-        "header_custom": "",
+        "header_custom": "<!-- Hotjar Tracking Code for www.primalmanproject.org -->\n<script>\n    (function(h,o,t,j,a,r){\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\n        h._hjSettings={hjid:2410584,hjsv:6};\n        a=o.getElementsByTagName('head')[0];\n        r=o.createElement('script');r.async=1;\n        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\n        a.appendChild(r);\n    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/the-path-fb-poster-1920x1080.png"
@@ -239,7 +239,7 @@
       "settings": {
         "title": "The Path",
         "meta_descr": "The Path Primal Man Project",
-        "header_custom": "",
+        "header_custom": "<!-- Hotjar Tracking Code for www.primalmanproject.org -->\n<script>\n    (function(h,o,t,j,a,r){\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\n        h._hjSettings={hjid:2410584,hjsv:6};\n        a=o.getElementsByTagName('head')[0];\n        r=o.createElement('script');r.async=1;\n        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\n        a.appendChild(r);\n    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/the-path-fb-poster-1920x1080.png",
