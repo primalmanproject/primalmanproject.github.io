@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "thepath.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -39,7 +39,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Primal Man Project - The Path",
+    "name": "Primal Man Project",
     "versionFirst": "5.3.0",
     "siteFonts": [
       {
@@ -84,7 +84,9 @@
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-P75TSVFGQF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-P75TSVFGQF');\n</script>",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
