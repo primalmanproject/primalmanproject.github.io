@@ -790,60 +790,6 @@ a {
 .cid-rzMrdh7IU7 .inner-text {
   color: #c1c1c1;
 }
-.cid-stT782IB6U {
-  background-image: url("../../../assets/images/the-path-fb-poster-1920x1080.png");
-}
-.cid-stT782IB6U .mbr-text,
-.cid-stT782IB6U .typed-text,
-.cid-stT782IB6U .mbr-section-text {
-  letter-spacing: 0.03rem;
-}
-.cid-stT782IB6U .btn {
-  margin-left: 4px !important;
-}
-.cid-stT782IB6U .animated-element {
-  color: #ffbc00;
-}
-.cid-stT782IB6U .typed-cursor {
-  opacity: 1;
-  -webkit-animation: blink 0.7s infinite;
-  -moz-animation: blink 0.7s infinite;
-  animation: blink 0.7s infinite;
-  color: #ffbc00;
-}
-@keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-@-webkit-keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-@-moz-keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
 .cid-stT7838W1Z {
   padding-top: 2rem;
   padding-bottom: 2rem;
